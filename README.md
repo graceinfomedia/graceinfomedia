@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @graceinfomedia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in - software development
+- 🌱 I’m currently learning - laravel/frontent
+- 💞️ I’m looking to collaborate on - Laravel
 - 📫 How to reach me - info@graceinfomedia.com
 
 <!---
